@@ -13,7 +13,7 @@ Each video release will be associated with the burning of a certain number of FN
 NFTs created in the competitions will be auctioned, and some will be distributed to those who hold FNX tokens, motivating the community to hold tokens long-term.
 
 4. Tokenomics
-Max Supply: 20,000,000,000 FNX tokens
+Max Supply: 18,446,744,073.709553 FNX tokens
 Distribution:
 Competitions for the Best NFT: 10% of the tokens will be reserved for competition participants as rewards.
 Token Burning: 1% of the total FNX supply will be burned with each video release, helping to maintain a deflationary model.
