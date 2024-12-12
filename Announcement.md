@@ -13,7 +13,7 @@ For more information and to join our community, visit our official pages: [Inser
 For discussions, news, and updates, join us on:
 
 Facebook: https://www.facebook.com/profile.php?id=61570596442863
-Twitter: @FunkyFenixFNX
+Twitter: FunkyFenixFNX
 Website: Coming soon
 
 Let’s build a creative community together and take Funky Fenix to new heights! 🚀🔥
